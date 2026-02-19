@@ -9,6 +9,9 @@
     <Project Path="sablon/sablon.vcxproj" Id="96ab995e-5073-4a0b-982e-a00e82bd4ec7" />
     <Project Path="turler/turler.vcxproj" Id="4ed14441-c94c-4ead-9c6b-7798efd539f1" />
   </Folder>
+  <Folder Name="/kutuphane/">
+    <Project Path="kutuphane1/kutuphane1.vcxproj" Id="d038165f-5b9f-465c-8cf8-d8132fc395ed" />
+  </Folder>
   <Folder Name="/on_islemci/">
     <Project Path="macrolar/macrolar.vcxproj" Id="ab38f89e-2451-4f04-8daa-0aba116ba7f1" />
     <Project Path="onislemci/onislemci.vcxproj" Id="d4678e09-9c42-42d9-8ed7-b8a48a9d4a5c" />
