@@ -4,36 +4,37 @@
     <Platform Name="x86" />
   </Configurations>
   <Folder Name="/baslangıc/">
-    <Project Path="akıs_kontrollleri/akıs_kontrollleri.vcxproj" Id="ec8ac0ee-0ac1-46ae-b00c-34b3d9cfcf51" />
-    <Project Path="dizi/dizi.vcxproj" Id="276634d7-3c1b-4536-a538-cdaeda60ebf8" />
-    <Project Path="sablon/sablon.vcxproj" Id="96ab995e-5073-4a0b-982e-a00e82bd4ec7" />
-    <Project Path="turler/turler.vcxproj" Id="4ed14441-c94c-4ead-9c6b-7798efd539f1" />
+    <Project Path="../../../../../../source/repos/c++/akıs_kontrollleri/akıs_kontrollleri.vcxproj" Id="ec8ac0ee-0ac1-46ae-b00c-34b3d9cfcf51" />
+    <Project Path="../../../../../../source/repos/c++/dizi/dizi.vcxproj" Id="276634d7-3c1b-4536-a538-cdaeda60ebf8" />
+    <Project Path="../../../../../../source/repos/c++/sablon/sablon.vcxproj" Id="96ab995e-5073-4a0b-982e-a00e82bd4ec7" />
+    <Project Path="../../../../../../source/repos/c++/turler/turler.vcxproj" Id="4ed14441-c94c-4ead-9c6b-7798efd539f1" />
   </Folder>
   <Folder Name="/kutuphane/">
-    <Project Path="kutuphane1/kutuphane1.vcxproj" Id="d038165f-5b9f-465c-8cf8-d8132fc395ed" />
+    <Project Path="../../../../../../source/repos/c++/kutuphane1/kutuphane1.vcxproj" Id="d038165f-5b9f-465c-8cf8-d8132fc395ed" />
   </Folder>
   <Folder Name="/on_islemci/">
-    <Project Path="macrolar/macrolar.vcxproj" Id="ab38f89e-2451-4f04-8daa-0aba116ba7f1" />
-    <Project Path="onislemci/onislemci.vcxproj" Id="d4678e09-9c42-42d9-8ed7-b8a48a9d4a5c" />
+    <Project Path="../../../../../../source/repos/c++/macrolar/macrolar.vcxproj" Id="ab38f89e-2451-4f04-8daa-0aba116ba7f1" />
+    <Project Path="../../../../../../source/repos/c++/onislemci/onislemci.vcxproj" Id="d4678e09-9c42-42d9-8ed7-b8a48a9d4a5c" />
   </Folder>
   <Folder Name="/opp/">
-    <Project Path="bellek_yonetimi/bellek_yonetimi.vcxproj" Id="252a260a-fe5f-46f2-882e-678836c3c51f" />
-    <Project Path="bellek_yonetimi_1/bellek_yonetimi_1.vcxproj" Id="d25109d5-a949-4f29-a49e-5c3deafe75f7" />
-    <Project Path="class/class.vcxproj" Id="0b2e4565-1ef3-4362-a6f7-cbbc761a61ca" />
-    <Project Path="erisim_belirtecleri/erisim_belirtecleri.vcxproj" Id="c0a3f0b0-17d9-4871-ba33-9626300acc69" />
-    <Project Path="fonksiyon_gostericiler/fonksiyon_gostericiler.vcxproj" Id="42d81448-abc3-4b53-8bda-143191167d5d" />
-    <Project Path="miras/miras.vcxproj" Id="b1184b1c-8f84-4112-b123-cbfda0462607" />
-    <Project Path="oop/oop.vcxproj" Id="c29dc34f-3798-4805-abf7-43ba67710a19" />
-    <Project Path="shred_ptr/shred_ptr.vcxproj" Id="190ac627-e1ea-4dea-8a5c-b89aa185c4ef" />
-    <Project Path="trow/trow.vcxproj" Id="5b400086-ea38-48d0-b0b4-7e05f7db5d37" />
+    <Project Path="../../../../../../source/repos/c++/bellek_yonetimi/bellek_yonetimi.vcxproj" Id="252a260a-fe5f-46f2-882e-678836c3c51f" />
+    <Project Path="../../../../../../source/repos/c++/bellek_yonetimi_1/bellek_yonetimi_1.vcxproj" Id="d25109d5-a949-4f29-a49e-5c3deafe75f7" />
+    <Project Path="../../../../../../source/repos/c++/class/class.vcxproj" Id="0b2e4565-1ef3-4362-a6f7-cbbc761a61ca" />
+    <Project Path="../../../../../../source/repos/c++/erisim_belirtecleri/erisim_belirtecleri.vcxproj" Id="c0a3f0b0-17d9-4871-ba33-9626300acc69" />
+    <Project Path="../../../../../../source/repos/c++/fonksiyon_gostericiler/fonksiyon_gostericiler.vcxproj" Id="42d81448-abc3-4b53-8bda-143191167d5d" />
+    <Project Path="../../../../../../source/repos/c++/miras/miras.vcxproj" Id="b1184b1c-8f84-4112-b123-cbfda0462607" />
+    <Project Path="../../../../../../source/repos/c++/oop/oop.vcxproj" Id="c29dc34f-3798-4805-abf7-43ba67710a19" />
+    <Project Path="../../../../../../source/repos/c++/shred_ptr/shred_ptr.vcxproj" Id="190ac627-e1ea-4dea-8a5c-b89aa185c4ef" />
+    <Project Path="../../../../../../source/repos/c++/trow/trow.vcxproj" Id="5b400086-ea38-48d0-b0b4-7e05f7db5d37" />
   </Folder>
   <Folder Name="/örnek çalışmalar/">
-    <Project Path="akilliev/akilliev.vcxproj" Id="9277f20a-7081-4c3f-84f1-546584ad3933" />
-    <Project Path="banka_uygulaması/banka_uygulaması.vcxproj" Id="b68fc9b4-bfe1-4117-b430-6fc040b20564" />
-    <Project Path="E-Ticaret_Ödeme_Sistem/E-Ticaret_Ödeme_Sistem.vcxproj" Id="cdf2604f-9cee-421c-9665-5ae908123e7d" />
-    <Project Path="Otopark_Galeri_Sistemi/Otopark_Galeri_Sistemi.vcxproj" Id="65595a60-ce68-4c57-81cc-cd57f93d6cd8" />
-    <Project Path="pointer_asker/pointer_asker.vcxproj" Id="f32d78b4-c15a-4121-a8be-628be15605ca" />
-    <Project Path="referanslar/referanslar.vcxproj" Id="64863910-b638-4dd6-aea1-f208173d4a6f" />
-    <Project Path="savaş_oyunu/savaş_oyunu.vcxproj" Id="76adb80d-7c85-468a-9594-310adb448622" />
+    <Project Path="../../../../../../source/repos/c++/akilliev/akilliev.vcxproj" Id="9277f20a-7081-4c3f-84f1-546584ad3933" />
+    <Project Path="../../../../../../source/repos/c++/banka_uygulaması/banka_uygulaması.vcxproj" Id="b68fc9b4-bfe1-4117-b430-6fc040b20564" />
+    <Project Path="../../../../../../source/repos/c++/ceo/ceo.vcxproj" Id="9168216d-4207-4ad9-94d8-e93e5fbd3fde" />
+    <Project Path="../../../../../../source/repos/c++/E-Ticaret_Ödeme_Sistem/E-Ticaret_Ödeme_Sistem.vcxproj" Id="cdf2604f-9cee-421c-9665-5ae908123e7d" />
+    <Project Path="../../../../../../source/repos/c++/Otopark_Galeri_Sistemi/Otopark_Galeri_Sistemi.vcxproj" Id="65595a60-ce68-4c57-81cc-cd57f93d6cd8" />
+    <Project Path="../../../../../../source/repos/c++/pointer_asker/pointer_asker.vcxproj" Id="f32d78b4-c15a-4121-a8be-628be15605ca" />
+    <Project Path="../../../../../../source/repos/c++/referanslar/referanslar.vcxproj" Id="64863910-b638-4dd6-aea1-f208173d4a6f" />
+    <Project Path="../../../../../../source/repos/c++/savaş_oyunu/savaş_oyunu.vcxproj" Id="76adb80d-7c85-468a-9594-310adb448622" />
   </Folder>
 </Solution>
